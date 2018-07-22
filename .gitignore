@@ -1,0 +1,15 @@
+########################
+#UNREAL_GENERATED_FILES#
+########################
+*/Build
+*/Binaries
+*/DeriveDateCache
+*/Intermediate
+*/Saved
+
+BuildingEescape/Content/StarterContent/
+
+####################
+#VS_GENERATED_FILES#
+####################
+*.VC.db
